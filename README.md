@@ -1,5 +1,4 @@
-![Tests]
-(https://github.com/trollsonspeaks/notely-ts/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/trollsonspeaks/notely-ts/actions/workflows/ci.yml/badge.svg)
 
 # Notely
 

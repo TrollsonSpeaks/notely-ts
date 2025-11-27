@@ -1,3 +1,16 @@
+![Tests]
+(https://github.com/trollsonspeaks/notely-ts/actions/workflows/ci.yml/badge.svg)
+
+# Notely
+
+A simple note-taking application built with TypesScript.
+
+## Features
+
+- Create notes
+- API authentication
+- Automated testing
+
 # learn-cicd-typescript-starter (Notely)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
